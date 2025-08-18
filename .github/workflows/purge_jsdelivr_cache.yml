@@ -3,7 +3,7 @@ name: Purge jsDelivr Cache
 on:
   push:
     paths:
-      - 'feed.xml'
+      - 'firmware_rss.xml'
 
 jobs:
   purge:
@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Purge jsDelivr Cache
         run: |
-          curl -I "https://purge.jsdelivr.net/gh/bearkevin/rss-test@main/feed.xml"
+          curl -I "https://purge.jsdelivr.net/gh/bearkevin/apple_firmware_checker@main/firmware_rss.xml"
