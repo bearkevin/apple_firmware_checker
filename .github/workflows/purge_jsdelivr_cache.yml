@@ -1,0 +1,14 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    paths:
+      - 'feed.xml'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr Cache
+        run: |
+          curl -I "https://purge.jsdelivr.net/gh/bearkevin/rss-test@main/feed.xml"
