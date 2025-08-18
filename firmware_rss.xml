@@ -5,6 +5,83 @@
     <link>https://www.apple.com</link>
     <description>Latest Apple firmware updates found by checker script.</description>
     <item>
+      <title>iPhone6,1 - 12.5.7 (16H81)</title>
+      <link>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14411/390C166E-349A-452E-ADFE-0CF3895F6070/iPhone_4.0_64bit_12.5.7_16H81_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14411/390C166E-349A-452E-ADFE-0CF3895F6070/iPhone_4.0_64bit_12.5.7_16H81_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 16H81, SHA1: 1b9986e79841adee5f6d5215738f363c5234e0b6</description>
+    </item>
+    <item>
+      <title>iPhone6,2 - 12.5.7 (16H81)</title>
+      <link>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14411/390C166E-349A-452E-ADFE-0CF3895F6070/iPhone_4.0_64bit_12.5.7_16H81_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14411/390C166E-349A-452E-ADFE-0CF3895F6070/iPhone_4.0_64bit_12.5.7_16H81_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 16H81, SHA1: 1b9986e79841adee5f6d5215738f363c5234e0b6</description>
+    </item>
+    <item>
+      <title>iPhone7,1 - 12.5.7 (16H81)</title>
+      <link>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14318/BA4FE4A1-083E-4B6F-980B-D62C13835060/iPhone_5.5_12.5.7_16H81_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14318/BA4FE4A1-083E-4B6F-980B-D62C13835060/iPhone_5.5_12.5.7_16H81_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 16H81, SHA1: 809fca5595991ea05dd3b9582fcf298c3911021b</description>
+    </item>
+    <item>
+      <title>iPhone7,2 - 12.5.7 (16H81)</title>
+      <link>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14159/3DCCA12B-087F-438C-B69D-B6316C46910F/iPhone_4.7_12.5.7_16H81_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14159/3DCCA12B-087F-438C-B69D-B6316C46910F/iPhone_4.7_12.5.7_16H81_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 16H81, SHA1: 2f3a6f9414db20aa02270e5e4f2606535ee013a9</description>
+    </item>
+    <item>
+      <title>iPhone8,1 - 15.8.4 (19H390)</title>
+      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48421/918618B0-E07D-479A-8F54-D61B7A426DCF/iPhone_4.7_15.8.4_19H390_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48421/918618B0-E07D-479A-8F54-D61B7A426DCF/iPhone_4.7_15.8.4_19H390_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 19H390, SHA1: a27fb4d1324841ede2fb445c2cac89d40913c216</description>
+    </item>
+    <item>
+      <title>iPhone8,2 - 15.8.4 (19H390)</title>
+      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48382/6922D342-864E-4172-B8A2-D6293976E466/iPhone_5.5_15.8.4_19H390_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48382/6922D342-864E-4172-B8A2-D6293976E466/iPhone_5.5_15.8.4_19H390_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 19H390, SHA1: 100813ebcbab2bd765135af8ce1dacb9c59438dc</description>
+    </item>
+    <item>
+      <title>iPhone8,4 - 15.8.4 (19H390)</title>
+      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48461/D99373EA-9262-4602-A38A-5928DDA8D724/iPhone_4.0_64bit_15.8.4_19H390_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48461/D99373EA-9262-4602-A38A-5928DDA8D724/iPhone_4.0_64bit_15.8.4_19H390_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 19H390, SHA1: 40cada7f4ca8e1dd9b7fe80d8f9fb6d7550e4f24</description>
+    </item>
+    <item>
+      <title>iPhone9,1 - 15.8.4 (19H390)</title>
+      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-47933/0FBD3244-5191-427E-A8F0-37C1E05D3436/iPhone_4.7_P3_15.8.4_19H390_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-47933/0FBD3244-5191-427E-A8F0-37C1E05D3436/iPhone_4.7_P3_15.8.4_19H390_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 19H390, SHA1: 4a4a77eae7a8ea3d98adb22c97a088d34a7daf92</description>
+    </item>
+    <item>
+      <title>iPhone9,2 - 15.8.4 (19H390)</title>
+      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48481/770AB33F-5F75-44C0-9E23-65E8648D76C6/iPhone_5.5_P3_15.8.4_19H390_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48481/770AB33F-5F75-44C0-9E23-65E8648D76C6/iPhone_5.5_P3_15.8.4_19H390_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 19H390, SHA1: e20a363602294c7b772d02aecd018cedaa95caab</description>
+    </item>
+    <item>
+      <title>iPhone9,3 - 15.8.4 (19H390)</title>
+      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-47933/0FBD3244-5191-427E-A8F0-37C1E05D3436/iPhone_4.7_P3_15.8.4_19H390_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-47933/0FBD3244-5191-427E-A8F0-37C1E05D3436/iPhone_4.7_P3_15.8.4_19H390_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 19H390, SHA1: 4a4a77eae7a8ea3d98adb22c97a088d34a7daf92</description>
+    </item>
+    <item>
+      <title>iPhone9,4 - 15.8.4 (19H390)</title>
+      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48481/770AB33F-5F75-44C0-9E23-65E8648D76C6/iPhone_5.5_P3_15.8.4_19H390_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48481/770AB33F-5F75-44C0-9E23-65E8648D76C6/iPhone_5.5_P3_15.8.4_19H390_Restore.ipsw</guid>
+      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
+      <description>Build: 19H390, SHA1: e20a363602294c7b772d02aecd018cedaa95caab</description>
+    </item>
+    <item>
       <title>iPhone1,2 - 4.2 (8C148)</title>
       <link>http://appldnld.apple.com/iPhone4/061-9853.20101122.Vfgt5/iPhone1,2_4.2.1_8C148_Restore.ipsw</link>
       <guid>http://appldnld.apple.com/iPhone4/061-9853.20101122.Vfgt5/iPhone1,2_4.2.1_8C148_Restore.ipsw</guid>
