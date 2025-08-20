@@ -5,179 +5,354 @@
     <link>https://www.apple.com</link>
     <description>Latest Apple firmware updates found by checker script.</description>
     <item>
-      <title>iPhone6,1 - 12.5.7 (16H81)</title>
-      <link>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14411/390C166E-349A-452E-ADFE-0CF3895F6070/iPhone_4.0_64bit_12.5.7_16H81_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14411/390C166E-349A-452E-ADFE-0CF3895F6070/iPhone_4.0_64bit_12.5.7_16H81_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 16H81, SHA1: 1b9986e79841adee5f6d5215738f363c5234e0b6</description>
+      <title>iPad7,1 - 17.7.10 (21H450)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21857/D64B129B-269D-42A5-9637-DE16D6843DA1/iPad_Pro_HFR_17.7.10_21H450_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21857/D64B129B-269D-42A5-9637-DE16D6843DA1/iPad_Pro_HFR_17.7.10_21H450_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 21H450, SHA1: 2d26451b00fb6712b93611c949bba25d52b98686</description>
     </item>
     <item>
-      <title>iPhone6,2 - 12.5.7 (16H81)</title>
-      <link>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14411/390C166E-349A-452E-ADFE-0CF3895F6070/iPhone_4.0_64bit_12.5.7_16H81_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14411/390C166E-349A-452E-ADFE-0CF3895F6070/iPhone_4.0_64bit_12.5.7_16H81_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 16H81, SHA1: 1b9986e79841adee5f6d5215738f363c5234e0b6</description>
+      <title>iPad7,2 - 17.7.10 (21H450)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21857/D64B129B-269D-42A5-9637-DE16D6843DA1/iPad_Pro_HFR_17.7.10_21H450_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21857/D64B129B-269D-42A5-9637-DE16D6843DA1/iPad_Pro_HFR_17.7.10_21H450_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 21H450, SHA1: 2d26451b00fb6712b93611c949bba25d52b98686</description>
     </item>
     <item>
-      <title>iPhone7,1 - 12.5.7 (16H81)</title>
-      <link>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14318/BA4FE4A1-083E-4B6F-980B-D62C13835060/iPhone_5.5_12.5.7_16H81_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14318/BA4FE4A1-083E-4B6F-980B-D62C13835060/iPhone_5.5_12.5.7_16H81_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 16H81, SHA1: 809fca5595991ea05dd3b9582fcf298c3911021b</description>
+      <title>iPad7,3 - 17.7.10 (21H450)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21857/D64B129B-269D-42A5-9637-DE16D6843DA1/iPad_Pro_HFR_17.7.10_21H450_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21857/D64B129B-269D-42A5-9637-DE16D6843DA1/iPad_Pro_HFR_17.7.10_21H450_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 21H450, SHA1: 2d26451b00fb6712b93611c949bba25d52b98686</description>
     </item>
     <item>
-      <title>iPhone7,2 - 12.5.7 (16H81)</title>
-      <link>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14159/3DCCA12B-087F-438C-B69D-B6316C46910F/iPhone_4.7_12.5.7_16H81_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14159/3DCCA12B-087F-438C-B69D-B6316C46910F/iPhone_4.7_12.5.7_16H81_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 16H81, SHA1: 2f3a6f9414db20aa02270e5e4f2606535ee013a9</description>
+      <title>iPad7,4 - 17.7.10 (21H450)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21857/D64B129B-269D-42A5-9637-DE16D6843DA1/iPad_Pro_HFR_17.7.10_21H450_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21857/D64B129B-269D-42A5-9637-DE16D6843DA1/iPad_Pro_HFR_17.7.10_21H450_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 21H450, SHA1: 2d26451b00fb6712b93611c949bba25d52b98686</description>
     </item>
     <item>
-      <title>iPhone8,1 - 15.8.4 (19H390)</title>
-      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48421/918618B0-E07D-479A-8F54-D61B7A426DCF/iPhone_4.7_15.8.4_19H390_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48421/918618B0-E07D-479A-8F54-D61B7A426DCF/iPhone_4.7_15.8.4_19H390_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 19H390, SHA1: a27fb4d1324841ede2fb445c2cac89d40913c216</description>
+      <title>iPad7,5 - 17.7.10 (21H450)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21789/ED7E830C-3B1E-4F37-8D15-08FC13230F86/iPad_64bit_TouchID_ASTC_17.7.10_21H450_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21789/ED7E830C-3B1E-4F37-8D15-08FC13230F86/iPad_64bit_TouchID_ASTC_17.7.10_21H450_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 21H450, SHA1: 483feb93f1b0cad95af879349e23a4f5d5e4ae8c</description>
     </item>
     <item>
-      <title>iPhone8,2 - 15.8.4 (19H390)</title>
-      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48382/6922D342-864E-4172-B8A2-D6293976E466/iPhone_5.5_15.8.4_19H390_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48382/6922D342-864E-4172-B8A2-D6293976E466/iPhone_5.5_15.8.4_19H390_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 19H390, SHA1: 100813ebcbab2bd765135af8ce1dacb9c59438dc</description>
+      <title>iPad7,6 - 17.7.10 (21H450)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21789/ED7E830C-3B1E-4F37-8D15-08FC13230F86/iPad_64bit_TouchID_ASTC_17.7.10_21H450_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21789/ED7E830C-3B1E-4F37-8D15-08FC13230F86/iPad_64bit_TouchID_ASTC_17.7.10_21H450_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 21H450, SHA1: 483feb93f1b0cad95af879349e23a4f5d5e4ae8c</description>
     </item>
     <item>
-      <title>iPhone8,4 - 15.8.4 (19H390)</title>
-      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48461/D99373EA-9262-4602-A38A-5928DDA8D724/iPhone_4.0_64bit_15.8.4_19H390_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48461/D99373EA-9262-4602-A38A-5928DDA8D724/iPhone_4.0_64bit_15.8.4_19H390_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 19H390, SHA1: 40cada7f4ca8e1dd9b7fe80d8f9fb6d7550e4f24</description>
+      <title>iPad7,11 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21546/95C141A7-3529-4288-82C9-3CBC95FEDAC9/iPad_10.2_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21546/95C141A7-3529-4288-82C9-3CBC95FEDAC9/iPad_10.2_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 6a8753fbd0bedbc72a86b99ceaae55b21555f96a</description>
     </item>
     <item>
-      <title>iPhone9,1 - 15.8.4 (19H390)</title>
-      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-47933/0FBD3244-5191-427E-A8F0-37C1E05D3436/iPhone_4.7_P3_15.8.4_19H390_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-47933/0FBD3244-5191-427E-A8F0-37C1E05D3436/iPhone_4.7_P3_15.8.4_19H390_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 19H390, SHA1: 4a4a77eae7a8ea3d98adb22c97a088d34a7daf92</description>
+      <title>iPad7,12 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21546/95C141A7-3529-4288-82C9-3CBC95FEDAC9/iPad_10.2_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21546/95C141A7-3529-4288-82C9-3CBC95FEDAC9/iPad_10.2_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 6a8753fbd0bedbc72a86b99ceaae55b21555f96a</description>
     </item>
     <item>
-      <title>iPhone9,2 - 15.8.4 (19H390)</title>
-      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48481/770AB33F-5F75-44C0-9E23-65E8648D76C6/iPhone_5.5_P3_15.8.4_19H390_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48481/770AB33F-5F75-44C0-9E23-65E8648D76C6/iPhone_5.5_P3_15.8.4_19H390_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 19H390, SHA1: e20a363602294c7b772d02aecd018cedaa95caab</description>
+      <title>iPad8,1 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone9,3 - 15.8.4 (19H390)</title>
-      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-47933/0FBD3244-5191-427E-A8F0-37C1E05D3436/iPhone_4.7_P3_15.8.4_19H390_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-47933/0FBD3244-5191-427E-A8F0-37C1E05D3436/iPhone_4.7_P3_15.8.4_19H390_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 19H390, SHA1: 4a4a77eae7a8ea3d98adb22c97a088d34a7daf92</description>
+      <title>iPad8,2 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone9,4 - 15.8.4 (19H390)</title>
-      <link>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48481/770AB33F-5F75-44C0-9E23-65E8648D76C6/iPhone_5.5_P3_15.8.4_19H390_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025WinterSeed/fullrestores/062-48481/770AB33F-5F75-44C0-9E23-65E8648D76C6/iPhone_5.5_P3_15.8.4_19H390_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 10:42:15 GMT</pubDate>
-      <description>Build: 19H390, SHA1: e20a363602294c7b772d02aecd018cedaa95caab</description>
+      <title>iPad8,3 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone1,2 - 4.2 (8C148)</title>
-      <link>http://appldnld.apple.com/iPhone4/061-9853.20101122.Vfgt5/iPhone1,2_4.2.1_8C148_Restore.ipsw</link>
-      <guid>http://appldnld.apple.com/iPhone4/061-9853.20101122.Vfgt5/iPhone1,2_4.2.1_8C148_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:52:10 GMT</pubDate>
-      <description>Build: 8C148, SHA1: d2ed58586e8ca2153f2e2ec585bba8afc5173378</description>
+      <title>iPad8,4 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone2,1 - 6.1.6 (10B500)</title>
-      <link>http://appldnld.apple.com/iOS6.1/091-3457.20140221.Btt3e/iPhone2,1_6.1.6_10B500_Restore.ipsw</link>
-      <guid>http://appldnld.apple.com/iOS6.1/091-3457.20140221.Btt3e/iPhone2,1_6.1.6_10B500_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:52:10 GMT</pubDate>
-      <description>Build: 10B500, SHA1: eb7f495760a500bb284b07f11492a4fadf687802</description>
+      <title>iPad8,5 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone3,1 - 7.1.2 (11D257)</title>
-      <link>http://appldnld.apple.com/iOS7.1/031-4812.20140627.cq6y8/iPhone3,1_7.1.2_11D257_Restore.ipsw</link>
-      <guid>http://appldnld.apple.com/iOS7.1/031-4812.20140627.cq6y8/iPhone3,1_7.1.2_11D257_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:52:10 GMT</pubDate>
-      <description>Build: 11D257, SHA1: 81da17b3e893a61508fe203849b7e1f60e2127b1</description>
+      <title>iPad8,6 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone3,2 - 7.1.2 (11D257)</title>
-      <link>http://appldnld.apple.com/iOS7.1/031-4785.20140627.zZ42j/iPhone3,2_7.1.2_11D257_Restore.ipsw</link>
-      <guid>http://appldnld.apple.com/iOS7.1/031-4785.20140627.zZ42j/iPhone3,2_7.1.2_11D257_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:52:10 GMT</pubDate>
-      <description>Build: 11D257, SHA1: b3c0c0adc95ae2ae1184e9aa111845cd705975d9</description>
+      <title>iPad8,7 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone3,3 - 7.1.2 (11D257)</title>
-      <link>http://appldnld.apple.com/iOS7.1/031-4768.20140627.DXmmp/iPhone3,3_7.1.2_11D257_Restore.ipsw</link>
-      <guid>http://appldnld.apple.com/iOS7.1/031-4768.20140627.DXmmp/iPhone3,3_7.1.2_11D257_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:52:10 GMT</pubDate>
-      <description>Build: 11D257, SHA1: aaeda3c8e1979189faa153cdf43e817a3f81f74c</description>
+      <title>iPad8,8 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone13,2 - 18.6.1 (22G90)</title>
-      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-08713/7EEC0D27-412F-49F2-AF99-5DF6F6689868/iPhone13,2,iPhone13,3_18.6.1_22G90_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-08713/7EEC0D27-412F-49F2-AF99-5DF6F6689868/iPhone13,2,iPhone13,3_18.6.1_22G90_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:49:17 GMT</pubDate>
-      <description>Build: 22G90, SHA1: 5889169136b7161c55af74f47d7eed4c2fd536f8</description>
+      <title>iPad8,9 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone13,3 - 18.6.1 (22G90)</title>
-      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-08713/7EEC0D27-412F-49F2-AF99-5DF6F6689868/iPhone13,2,iPhone13,3_18.6.1_22G90_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-08713/7EEC0D27-412F-49F2-AF99-5DF6F6689868/iPhone13,2,iPhone13,3_18.6.1_22G90_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:49:17 GMT</pubDate>
-      <description>Build: 22G90, SHA1: 5889169136b7161c55af74f47d7eed4c2fd536f8</description>
+      <title>iPad8,10 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone13,4 - 18.6.1 (22G90)</title>
-      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-07724/AA1483CB-BB3B-4798-B13C-2A690A2883B7/iPhone13,4_18.6.1_22G90_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-07724/AA1483CB-BB3B-4798-B13C-2A690A2883B7/iPhone13,4_18.6.1_22G90_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:49:17 GMT</pubDate>
-      <description>Build: 22G90, SHA1: 743d1e7aa4d82bd59299833dcac98749d8a21cdf</description>
+      <title>iPad8,11 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone14,2 - 18.6.1 (22G90)</title>
-      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-08813/FD882EC0-D2D6-482A-B9A2-FB47ECA4A8AD/iPhone14,2_18.6.1_22G90_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-08813/FD882EC0-D2D6-482A-B9A2-FB47ECA4A8AD/iPhone14,2_18.6.1_22G90_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:49:17 GMT</pubDate>
-      <description>Build: 22G90, SHA1: 058ffcec1ba4a0eaac330d071247d3a2b8661378</description>
+      <title>iPad8,12 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21358/FEA95F7D-FC7C-4E21-AAE8-942625B9980F/iPad_Pro_A12X_A12Z_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: e69f04f667739dc858d56ea37665b22966286cc4</description>
     </item>
     <item>
-      <title>iPhone14,3 - 18.6.1 (22G90)</title>
-      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-08960/A6084B7B-82C1-4FFC-B278-5E48A2642E44/iPhone14,3_18.6.1_22G90_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-08960/A6084B7B-82C1-4FFC-B278-5E48A2642E44/iPhone14,3_18.6.1_22G90_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:49:17 GMT</pubDate>
-      <description>Build: 22G90, SHA1: ef5cc927620cba313a62ae28d64454859a101064</description>
+      <title>iPad11,1 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20986/FFBD784F-01EF-4943-9858-07A3B038CB84/iPad_Spring_2019_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20986/FFBD784F-01EF-4943-9858-07A3B038CB84/iPad_Spring_2019_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 0a15ce64bb2f423cba868f4874822263c2c9bbde</description>
     </item>
     <item>
-      <title>iPhone14,4 - 18.6.1 (22G90)</title>
-      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-08524/8B7DFF2E-56A9-48C3-BEFC-879C248233E6/iPhone14,4_18.6.1_22G90_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-08524/8B7DFF2E-56A9-48C3-BEFC-879C248233E6/iPhone14,4_18.6.1_22G90_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:49:17 GMT</pubDate>
-      <description>Build: 22G90, SHA1: 221d8ec494398fae01bebe7f0c06a9814401e5f8</description>
+      <title>iPad11,2 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20986/FFBD784F-01EF-4943-9858-07A3B038CB84/iPad_Spring_2019_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20986/FFBD784F-01EF-4943-9858-07A3B038CB84/iPad_Spring_2019_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 0a15ce64bb2f423cba868f4874822263c2c9bbde</description>
     </item>
     <item>
-      <title>iPhone14,5 - 18.6.1 (22G90)</title>
-      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-09161/A4303B7F-F6EF-4154-AA54-CCA97B23220E/iPhone14,5_18.6.1_22G90_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-09161/A4303B7F-F6EF-4154-AA54-CCA97B23220E/iPhone14,5_18.6.1_22G90_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:49:17 GMT</pubDate>
-      <description>Build: 22G90, SHA1: b758d2d5e7a7605165def871dc3d886482f84769</description>
+      <title>iPad11,3 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20986/FFBD784F-01EF-4943-9858-07A3B038CB84/iPad_Spring_2019_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20986/FFBD784F-01EF-4943-9858-07A3B038CB84/iPad_Spring_2019_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 0a15ce64bb2f423cba868f4874822263c2c9bbde</description>
     </item>
     <item>
-      <title>iPad15,4 - 18.6 (22G86)</title>
-      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-00054/363C850C-0FA1-4AA6-B3F0-F41AB2548D68/iPad15,3,iPad15,4,iPad15,5,iPad15,6_18.6_22G86_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-00054/363C850C-0FA1-4AA6-B3F0-F41AB2548D68/iPad15,3,iPad15,4,iPad15,5,iPad15,6_18.6_22G86_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:21:36 GMT</pubDate>
-      <description>Build: 22G86, SHA1: 03684aa5083d0f0568c3e9d2c6b6196e7430371a</description>
+      <title>iPad11,4 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20986/FFBD784F-01EF-4943-9858-07A3B038CB84/iPad_Spring_2019_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20986/FFBD784F-01EF-4943-9858-07A3B038CB84/iPad_Spring_2019_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 0a15ce64bb2f423cba868f4874822263c2c9bbde</description>
     </item>
     <item>
-      <title>iPad15,6 - 18.6 (22G86)</title>
-      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-00054/363C850C-0FA1-4AA6-B3F0-F41AB2548D68/iPad15,3,iPad15,4,iPad15,5,iPad15,6_18.6_22G86_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-00054/363C850C-0FA1-4AA6-B3F0-F41AB2548D68/iPad15,3,iPad15,4,iPad15,5,iPad15,6_18.6_22G86_Restore.ipsw</guid>
-      <pubDate>Mon, 18 Aug 2025 09:21:36 GMT</pubDate>
-      <description>Build: 22G86, SHA1: 03684aa5083d0f0568c3e9d2c6b6196e7430371a</description>
+      <title>iPad11,6 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21526/855FCA5C-F592-41BA-A362-AC9854B7A6BC/iPad_10.2_2020_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21526/855FCA5C-F592-41BA-A362-AC9854B7A6BC/iPad_10.2_2020_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: d300b5b1d7c502735dbec0adc8e0d2059d19a6b9</description>
+    </item>
+    <item>
+      <title>iPad11,7 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21526/855FCA5C-F592-41BA-A362-AC9854B7A6BC/iPad_10.2_2020_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21526/855FCA5C-F592-41BA-A362-AC9854B7A6BC/iPad_10.2_2020_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: d300b5b1d7c502735dbec0adc8e0d2059d19a6b9</description>
+    </item>
+    <item>
+      <title>iPad12,1 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20927/A657BD4E-1A59-4EA3-AD0B-226855A39022/iPad_10.2_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20927/A657BD4E-1A59-4EA3-AD0B-226855A39022/iPad_10.2_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 4558eb03ae19cca1cd36a651adb2d869f700f760</description>
+    </item>
+    <item>
+      <title>iPad12,2 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20927/A657BD4E-1A59-4EA3-AD0B-226855A39022/iPad_10.2_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20927/A657BD4E-1A59-4EA3-AD0B-226855A39022/iPad_10.2_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 4558eb03ae19cca1cd36a651adb2d869f700f760</description>
+    </item>
+    <item>
+      <title>iPad13,1 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21161/0865266E-B894-432B-8613-7CD1C2A52AD0/iPad_Fall_2020_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21161/0865266E-B894-432B-8613-7CD1C2A52AD0/iPad_Fall_2020_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: f82b687f69b15ce55d000ad1bcdb29777761fca9</description>
+    </item>
+    <item>
+      <title>iPad13,2 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21161/0865266E-B894-432B-8613-7CD1C2A52AD0/iPad_Fall_2020_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21161/0865266E-B894-432B-8613-7CD1C2A52AD0/iPad_Fall_2020_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: f82b687f69b15ce55d000ad1bcdb29777761fca9</description>
+    </item>
+    <item>
+      <title>iPad13,4 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 6bc2679fb1970f0320dea1872af3290d80b5a58f</description>
+    </item>
+    <item>
+      <title>iPad13,5 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 6bc2679fb1970f0320dea1872af3290d80b5a58f</description>
+    </item>
+    <item>
+      <title>iPad13,6 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 6bc2679fb1970f0320dea1872af3290d80b5a58f</description>
+    </item>
+    <item>
+      <title>iPad13,7 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 6bc2679fb1970f0320dea1872af3290d80b5a58f</description>
+    </item>
+    <item>
+      <title>iPad13,8 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 6bc2679fb1970f0320dea1872af3290d80b5a58f</description>
+    </item>
+    <item>
+      <title>iPad13,9 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 6bc2679fb1970f0320dea1872af3290d80b5a58f</description>
+    </item>
+    <item>
+      <title>iPad13,10 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 6bc2679fb1970f0320dea1872af3290d80b5a58f</description>
+    </item>
+    <item>
+      <title>iPad13,11 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21385/7ACD8992-1C7B-46C5-911F-A1B0E951ACA6/iPad_Pro_Spring_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 6bc2679fb1970f0320dea1872af3290d80b5a58f</description>
+    </item>
+    <item>
+      <title>iPad13,16 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20908/B8AEDA5B-61B5-4E0D-844C-8BF36B2918F9/iPad_Spring_2022_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20908/B8AEDA5B-61B5-4E0D-844C-8BF36B2918F9/iPad_Spring_2022_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 147a2d14f86712550656ab7e9133afac021f2e27</description>
+    </item>
+    <item>
+      <title>iPad13,17 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20908/B8AEDA5B-61B5-4E0D-844C-8BF36B2918F9/iPad_Spring_2022_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-20908/B8AEDA5B-61B5-4E0D-844C-8BF36B2918F9/iPad_Spring_2022_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 147a2d14f86712550656ab7e9133afac021f2e27</description>
+    </item>
+    <item>
+      <title>iPad13,18 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21342/4AFFE474-D51F-48DC-90E3-E69D8ADFF34F/iPad_Fall_2022_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21342/4AFFE474-D51F-48DC-90E3-E69D8ADFF34F/iPad_Fall_2022_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 7ad76e34486cd1b63ff09d714a601107afd543b7</description>
+    </item>
+    <item>
+      <title>iPad13,19 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21342/4AFFE474-D51F-48DC-90E3-E69D8ADFF34F/iPad_Fall_2022_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21342/4AFFE474-D51F-48DC-90E3-E69D8ADFF34F/iPad_Fall_2022_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 7ad76e34486cd1b63ff09d714a601107afd543b7</description>
+    </item>
+    <item>
+      <title>iPad14,1 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21536/68DBDA94-C958-4B7B-9579-B212B29D29B3/iPad_Fall_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21536/68DBDA94-C958-4B7B-9579-B212B29D29B3/iPad_Fall_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: efb924d81df55f6081ef6ff6957c27ddbf497e6b</description>
+    </item>
+    <item>
+      <title>iPad14,2 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21536/68DBDA94-C958-4B7B-9579-B212B29D29B3/iPad_Fall_2021_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21536/68DBDA94-C958-4B7B-9579-B212B29D29B3/iPad_Fall_2021_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: efb924d81df55f6081ef6ff6957c27ddbf497e6b</description>
+    </item>
+    <item>
+      <title>iPad14,3 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21075/5E4A595F-6427-451D-A595-9969FD22A5C1/iPad14,3,iPad14,4,iPad14,5,iPad14,6_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21075/5E4A595F-6427-451D-A595-9969FD22A5C1/iPad14,3,iPad14,4,iPad14,5,iPad14,6_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 95fd4aeab7d984657a944385cb3405a9b2c0676c</description>
+    </item>
+    <item>
+      <title>iPad14,4 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21075/5E4A595F-6427-451D-A595-9969FD22A5C1/iPad14,3,iPad14,4,iPad14,5,iPad14,6_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21075/5E4A595F-6427-451D-A595-9969FD22A5C1/iPad14,3,iPad14,4,iPad14,5,iPad14,6_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 95fd4aeab7d984657a944385cb3405a9b2c0676c</description>
+    </item>
+    <item>
+      <title>iPad14,5 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21075/5E4A595F-6427-451D-A595-9969FD22A5C1/iPad14,3,iPad14,4,iPad14,5,iPad14,6_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21075/5E4A595F-6427-451D-A595-9969FD22A5C1/iPad14,3,iPad14,4,iPad14,5,iPad14,6_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 95fd4aeab7d984657a944385cb3405a9b2c0676c</description>
+    </item>
+    <item>
+      <title>iPad14,6 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21075/5E4A595F-6427-451D-A595-9969FD22A5C1/iPad14,3,iPad14,4,iPad14,5,iPad14,6_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21075/5E4A595F-6427-451D-A595-9969FD22A5C1/iPad14,3,iPad14,4,iPad14,5,iPad14,6_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: 95fd4aeab7d984657a944385cb3405a9b2c0676c</description>
+    </item>
+    <item>
+      <title>iPad14,8 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21477/938847F9-CAAC-48F2-89F1-A3F48023F195/iPad_Air_M2_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21477/938847F9-CAAC-48F2-89F1-A3F48023F195/iPad_Air_M2_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: fab91c5b1297432f3da53b5a4c9d6ff8ceee865a</description>
+    </item>
+    <item>
+      <title>iPad14,9 - 18.6.2 (22G100)</title>
+      <link>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21477/938847F9-CAAC-48F2-89F1-A3F48023F195/iPad_Air_M2_18.6.2_22G100_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21477/938847F9-CAAC-48F2-89F1-A3F48023F195/iPad_Air_M2_18.6.2_22G100_Restore.ipsw</guid>
+      <pubDate>Wed, 20 Aug 2025 17:42:11 GMT</pubDate>
+      <description>Build: 22G100, SHA1: fab91c5b1297432f3da53b5a4c9d6ff8ceee865a</description>
     </item>
   </channel>
 </rss>
