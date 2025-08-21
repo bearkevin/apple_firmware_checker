@@ -176,9 +176,16 @@ def main():
         
         url_filename = f"{datetime.now().strftime('%Y-%m-%d')}_updates.txt"
         print(f"Saving updated firmware URLs to {url_filename}...")
-        with open(url_filename, 'a') as f:
-            for device in updated_devices:
-                f.write(device.firmware_url + '\n')
+        new_urls = sorted(list(set(d.firmware_url for d in updated_devices)))
+        try:
+            with open(url_filename, 'r') as f:
+                existing_urls = [line.strip() for line in f.readlines()]
+        except FileNotFoundError:
+            existing_urls = []
+        all_urls = sorted(list(set(existing_urls + new_urls)))
+        with open(url_filename, 'w') as f:
+            for url in all_urls:
+                f.write(url + '\n')
         print("URLs saved.")
 
         update_rss_feed(RSS_FILE, updated_devices)
