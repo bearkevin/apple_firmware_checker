@@ -11,7 +11,6 @@ PLIST_URL = "https://s.mzstatic.com/version"
 DB_FILE = "firmware.db"
 RSS_FILE = "firmware_rss.xml"
 POLLING_INTERVAL_MINUTES = 15
-MAX_RSS_ITEMS = 50
 
 
 def fetch_and_parse_plist(url: str) -> dict | None:
@@ -124,24 +123,23 @@ def update_rss_feed(rss_path: str, updated_devices: list[AppleDevice]):
         ET.SubElement(channel, 'link').text = 'https://www.apple.com'
         ET.SubElement(channel, 'description').text = 'Latest Apple firmware updates found by checker script.'
 
-    for device in reversed(updated_devices): # Add newest first
+    # 清空现有的所有条目
+    for item in channel.findall('item'):
+        channel.remove(item)
+    
+    # 添加所有新发现的固件更新条目
+    for device in updated_devices:
         item = ET.Element('item')
         ET.SubElement(item, 'title').text = f'{device.hardware_code} - {device.product_version} ({device.build_version})'
         ET.SubElement(item, 'link').text = device.firmware_url
         ET.SubElement(item, 'guid').text = device.firmware_url
         ET.SubElement(item, 'pubDate').text = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
         ET.SubElement(item, 'description').text = f"Build: {device.build_version}, SHA1: {device.firmware_sha1}"
-        channel.insert(3, item) # Insert after title, link, description
-
-    # Trim old items
-    items = channel.findall('item')
-    if len(items) > MAX_RSS_ITEMS:
-        for old_item in items[MAX_RSS_ITEMS:]:
-            channel.remove(old_item)
+        channel.append(item)  # 直接添加到频道末尾
 
     ET.indent(tree, space="  ", level=0)
     tree.write(rss_path, encoding='utf-8', xml_declaration=True)
-    print("RSS feed updated.")
+    print(f"RSS feed updated with {len(updated_devices)} new firmware entries.")
 
 def main():
     """Main function to run a single firmware check and update local files."""
