@@ -1,3 +1,5 @@
+import logging
+from typing import Optional
 import plistlib
 import requests
 import sqlite3
@@ -13,19 +15,19 @@ RSS_FILE = "firmware_rss.xml"
 POLLING_INTERVAL_MINUTES = 15
 
 
-def fetch_and_parse_plist(url: str) -> dict | None:
+def fetch_and_parse_plist(url: str) -> Optional[dict]:
     try:
         response = requests.get(url, timeout=15)
         response.raise_for_status()
         return plistlib.loads(response.content)
     except requests.RequestException as e:
-        print(f"[{datetime.now()}] Error fetching data: {e}")
+        logging.error(f"Error fetching data: {e}")
         return None
     except plistlib.InvalidFileException as e:
-        print(f"[{datetime.now()}] Error parsing plist data: {e}")
+        logging.error(f"Error parsing plist data: {e}")
         return None
 
-def find_latest_version_node(data: dict) -> dict | None:
+def find_latest_version_node(data: dict) -> Optional[dict]:
     numeric_keys = [int(k) for k in data.keys() if k.isdigit()]
     if not numeric_keys:
         return None
@@ -111,7 +113,7 @@ def update_database(db_path: str, devices: list[AppleDevice]):
 
 def update_rss_feed(rss_path: str, updated_devices: list[AppleDevice]):
     """Creates or updates a local RSS feed file with the latest firmware."""
-    print(f"Updating RSS feed at {rss_path}...")
+    logging.info(f"Updating RSS feed at {rss_path}...")
     try:
         tree = ET.parse(rss_path)
         channel = tree.find('channel')
@@ -139,41 +141,50 @@ def update_rss_feed(rss_path: str, updated_devices: list[AppleDevice]):
 
     ET.indent(tree, space="  ", level=0)
     tree.write(rss_path, encoding='utf-8', xml_declaration=True)
-    print(f"RSS feed updated with {len(updated_devices)} new firmware entries.")
+    logging.info(f"RSS feed updated with {len(updated_devices)} new firmware entries.")
 
 def main():
     """Main function to run a single firmware check and update local files."""
-    print("Initializing firmware checker...")
+    # Configure logging
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler("firmware_checker.log"),
+            logging.StreamHandler()
+        ]
+    )
+
+    logging.info("Initializing firmware checker...")
     init_db(DB_FILE)
     
-    print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Running check...")
+    logging.info("Running check...")
     local_firmware = get_existing_firmware(DB_FILE)
     plist_data = fetch_and_parse_plist(PLIST_URL)
     if not plist_data:
-        print("Fetch failed. Exiting.")
+        logging.error("Fetch failed. Exiting.")
         return
     
     remote_devices = extract_firmware_info(plist_data)
     if not remote_devices:
-        print("Could not extract remote device info. Exiting.")
+        logging.error("Could not extract remote device info. Exiting.")
         return
 
     updated_devices = [d for d in remote_devices if d.firmware_sha1 != local_firmware.get(d.hardware_code)]
     
     if updated_devices:
-        print(f"\n--- !!! FIRMWARE UPDATES DETECTED !!! ---")
-        print(f"Timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-        print(f"Found {len(updated_devices)} new or updated firmwares:")
+        logging.info("--- !!! FIRMWARE UPDATES DETECTED !!! ---")
+        logging.info(f"Found {len(updated_devices)} new or updated firmwares:")
         print("-"*50)
         for device in updated_devices:
             print(device)
             print()
         
         update_database(DB_FILE, remote_devices)
-        print("Database has been updated.")
+        logging.info("Database has been updated.")
         
         url_filename = f"{datetime.now().strftime('%Y-%m-%d')}_updates.txt"
-        print(f"Saving updated firmware URLs to {url_filename}...")
+        logging.info(f"Saving updated firmware URLs to {url_filename}...")
         new_urls = sorted(list(set(d.firmware_url for d in updated_devices)))
         try:
             with open(url_filename, 'r') as f:
@@ -184,13 +195,13 @@ def main():
         with open(url_filename, 'w') as f:
             for url in all_urls:
                 f.write(url + '\n')
-        print("URLs saved.")
+        logging.info("URLs saved.")
 
         update_rss_feed(RSS_FILE, updated_devices)
     else:
-        print("No updates found.")
+        logging.info("No updates found.")
 
-    print(f"Check complete.")
+    logging.info("Check complete.")
 
 if __name__ == "__main__":
     main()
