@@ -1,5 +1,6 @@
 import logging
 from typing import Optional
+import os
 import plistlib
 import requests
 import sqlite3
@@ -12,6 +13,7 @@ from device import AppleDevice
 PLIST_URL = "https://s.mzstatic.com/version"
 DB_FILE = "firmware.db"
 RSS_FILE = "firmware_rss.xml"
+URL_HISTORY_DIR = "url_history"
 POLLING_INTERVAL_MINUTES = 15
 
 
@@ -143,6 +145,29 @@ def update_rss_feed(rss_path: str, updated_devices: list[AppleDevice]):
     tree.write(rss_path, encoding='utf-8', xml_declaration=True)
     logging.info(f"RSS feed updated with {len(updated_devices)} new firmware entries.")
 
+def save_firmware_urls(updated_devices: list[AppleDevice], history_dir: str):
+    """Saves the URLs of updated firmware to a text file in the history directory."""
+    if not os.path.exists(history_dir):
+        os.makedirs(history_dir)
+        logging.info(f"Created directory: {history_dir}")
+
+    url_filename = os.path.join(history_dir, f"{datetime.now().strftime('%Y-%m-%d')}_updates.txt")
+    logging.info(f"Saving updated firmware URLs to {url_filename}...")
+    
+    new_urls = sorted(list(set(d.firmware_url for d in updated_devices)))
+    try:
+        with open(url_filename, 'r') as f:
+            existing_urls = [line.strip() for line in f.readlines()]
+    except FileNotFoundError:
+        existing_urls = []
+    
+    all_urls = sorted(list(set(existing_urls + new_urls)))
+    
+    with open(url_filename, 'w') as f:
+        for url in all_urls:
+            f.write(url + '\n')
+    logging.info("URLs saved.")
+
 def main():
     """Main function to run a single firmware check and update local files."""
     # Configure logging
@@ -183,19 +208,7 @@ def main():
         update_database(DB_FILE, remote_devices)
         logging.info("Database has been updated.")
         
-        url_filename = f"{datetime.now().strftime('%Y-%m-%d')}_updates.txt"
-        logging.info(f"Saving updated firmware URLs to {url_filename}...")
-        new_urls = sorted(list(set(d.firmware_url for d in updated_devices)))
-        try:
-            with open(url_filename, 'r') as f:
-                existing_urls = [line.strip() for line in f.readlines()]
-        except FileNotFoundError:
-            existing_urls = []
-        all_urls = sorted(list(set(existing_urls + new_urls)))
-        with open(url_filename, 'w') as f:
-            for url in all_urls:
-                f.write(url + '\n')
-        logging.info("URLs saved.")
+        save_firmware_urls(updated_devices, URL_HISTORY_DIR)
 
         update_rss_feed(RSS_FILE, updated_devices)
     else:
