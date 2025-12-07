@@ -1,6 +1,9 @@
 on:
   schedule:
     - cron: '*/15 17-22 * * 1-5'
+  push:
+    branches:
+      - test
   workflow_dispatch:
 
 jobs:
