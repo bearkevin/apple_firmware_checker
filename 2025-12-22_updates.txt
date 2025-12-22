@@ -1,0 +1,4 @@
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-85655/A48FB75F-8F11-4BCD-A46F-7A514188C809/AudioAccessory5,1_26.2_23K54_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-88942/81D3A519-199C-4147-A1AF-4214F0C3BEF4/iPhone11,8_18.7.3_22H217_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-88977/B7FC6577-F360-4D7E-94FE-E974028FD734/iPhone11,2,iPhone11,4,iPhone11,6_18.7.3_22H217_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-89100/D6D0E720-D9AF-4085-A8DA-F38F34995490/iPad_10.2_18.7.3_22H217_Restore.ipsw
