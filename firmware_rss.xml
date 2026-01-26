@@ -5,46 +5,935 @@
     <link>https://www.apple.com</link>
     <description>Latest Apple firmware updates found by checker script.</description>
     <item>
-      <title>AudioAccessory5,1 - 26.2 (23K54)</title>
-      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-85655/A48FB75F-8F11-4BCD-A46F-7A514188C809/AudioAccessory5,1_26.2_23K54_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-85655/A48FB75F-8F11-4BCD-A46F-7A514188C809/AudioAccessory5,1_26.2_23K54_Restore.ipsw</guid>
-      <pubDate>Mon, 22 Dec 2025 18:38:00 GMT</pubDate>
-      <description>Build: 23K54, SHA1: dbf488bf55e762d419777e6f494d859e9fcb3ffd</description>
+      <title>iPad4,1 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e</description>
     </item>
     <item>
-      <title>iPad7,11 - 18.7.3 (22H217)</title>
-      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-89100/D6D0E720-D9AF-4085-A8DA-F38F34995490/iPad_10.2_18.7.3_22H217_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-89100/D6D0E720-D9AF-4085-A8DA-F38F34995490/iPad_10.2_18.7.3_22H217_Restore.ipsw</guid>
-      <pubDate>Mon, 22 Dec 2025 18:38:00 GMT</pubDate>
-      <description>Build: 22H217, SHA1: 2e942b485e6dbf564b3200486b63678b5b3554cc</description>
+      <title>iPad4,2 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e</description>
     </item>
     <item>
-      <title>iPad7,12 - 18.7.3 (22H217)</title>
-      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-89100/D6D0E720-D9AF-4085-A8DA-F38F34995490/iPad_10.2_18.7.3_22H217_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-89100/D6D0E720-D9AF-4085-A8DA-F38F34995490/iPad_10.2_18.7.3_22H217_Restore.ipsw</guid>
-      <pubDate>Mon, 22 Dec 2025 18:38:00 GMT</pubDate>
-      <description>Build: 22H217, SHA1: 2e942b485e6dbf564b3200486b63678b5b3554cc</description>
+      <title>iPad4,3 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e</description>
     </item>
     <item>
-      <title>iPhone11,2 - 18.7.3 (22H217)</title>
-      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-88977/B7FC6577-F360-4D7E-94FE-E974028FD734/iPhone11,2,iPhone11,4,iPhone11,6_18.7.3_22H217_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-88977/B7FC6577-F360-4D7E-94FE-E974028FD734/iPhone11,2,iPhone11,4,iPhone11,6_18.7.3_22H217_Restore.ipsw</guid>
-      <pubDate>Mon, 22 Dec 2025 18:38:00 GMT</pubDate>
-      <description>Build: 22H217, SHA1: 2b22a0268bb5e373b3d2f2d2c64d420f27e3fcbc</description>
+      <title>iPad4,4 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e</description>
     </item>
     <item>
-      <title>iPhone11,6 - 18.7.3 (22H217)</title>
-      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-88977/B7FC6577-F360-4D7E-94FE-E974028FD734/iPhone11,2,iPhone11,4,iPhone11,6_18.7.3_22H217_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-88977/B7FC6577-F360-4D7E-94FE-E974028FD734/iPhone11,2,iPhone11,4,iPhone11,6_18.7.3_22H217_Restore.ipsw</guid>
-      <pubDate>Mon, 22 Dec 2025 18:38:00 GMT</pubDate>
-      <description>Build: 22H217, SHA1: 2b22a0268bb5e373b3d2f2d2c64d420f27e3fcbc</description>
+      <title>iPad4,5 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e</description>
     </item>
     <item>
-      <title>iPhone11,8 - 18.7.3 (22H217)</title>
-      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-88942/81D3A519-199C-4147-A1AF-4214F0C3BEF4/iPhone11,8_18.7.3_22H217_Restore.ipsw</link>
-      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-88942/81D3A519-199C-4147-A1AF-4214F0C3BEF4/iPhone11,8_18.7.3_22H217_Restore.ipsw</guid>
-      <pubDate>Mon, 22 Dec 2025 18:38:00 GMT</pubDate>
-      <description>Build: 22H217, SHA1: 748e01c8e7a79b278b831a24bd9c1922dc3a7c00</description>
+      <title>iPad4,6 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e</description>
+    </item>
+    <item>
+      <title>iPad4,7 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28568/4BF067D1-9411-43EF-AC86-8A6AAC1E2B0C/iPad_64bit_TouchID_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28568/4BF067D1-9411-43EF-AC86-8A6AAC1E2B0C/iPad_64bit_TouchID_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 594aa0599ee77e34e97916f2ad88d70f4b7f79e0</description>
+    </item>
+    <item>
+      <title>iPad4,8 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28568/4BF067D1-9411-43EF-AC86-8A6AAC1E2B0C/iPad_64bit_TouchID_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28568/4BF067D1-9411-43EF-AC86-8A6AAC1E2B0C/iPad_64bit_TouchID_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 594aa0599ee77e34e97916f2ad88d70f4b7f79e0</description>
+    </item>
+    <item>
+      <title>iPad4,9 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28568/4BF067D1-9411-43EF-AC86-8A6AAC1E2B0C/iPad_64bit_TouchID_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28568/4BF067D1-9411-43EF-AC86-8A6AAC1E2B0C/iPad_64bit_TouchID_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 594aa0599ee77e34e97916f2ad88d70f4b7f79e0</description>
+    </item>
+    <item>
+      <title>iPad5,1 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41075/C2A03D6B-8F01-4606-A198-8FE3F39096E4/iPad_64bit_TouchID_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41075/C2A03D6B-8F01-4606-A198-8FE3F39096E4/iPad_64bit_TouchID_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: d7dbfbbe6543fc0612849c481785d8b6dcca3a5e</description>
+    </item>
+    <item>
+      <title>iPad5,2 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41075/C2A03D6B-8F01-4606-A198-8FE3F39096E4/iPad_64bit_TouchID_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41075/C2A03D6B-8F01-4606-A198-8FE3F39096E4/iPad_64bit_TouchID_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: d7dbfbbe6543fc0612849c481785d8b6dcca3a5e</description>
+    </item>
+    <item>
+      <title>iPad5,3 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41075/C2A03D6B-8F01-4606-A198-8FE3F39096E4/iPad_64bit_TouchID_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41075/C2A03D6B-8F01-4606-A198-8FE3F39096E4/iPad_64bit_TouchID_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: d7dbfbbe6543fc0612849c481785d8b6dcca3a5e</description>
+    </item>
+    <item>
+      <title>iPad5,4 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41075/C2A03D6B-8F01-4606-A198-8FE3F39096E4/iPad_64bit_TouchID_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41075/C2A03D6B-8F01-4606-A198-8FE3F39096E4/iPad_64bit_TouchID_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: d7dbfbbe6543fc0612849c481785d8b6dcca3a5e</description>
+    </item>
+    <item>
+      <title>iPad6,3 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16691/8C38956B-CF58-464F-8CB4-D225E2DB1AFD/iPadPro_9.7_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16691/8C38956B-CF58-464F-8CB4-D225E2DB1AFD/iPadPro_9.7_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: b80f26d72527d2bf51f4bef9b31db7ecd7fb51b9</description>
+    </item>
+    <item>
+      <title>iPad6,4 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16691/8C38956B-CF58-464F-8CB4-D225E2DB1AFD/iPadPro_9.7_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16691/8C38956B-CF58-464F-8CB4-D225E2DB1AFD/iPadPro_9.7_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: b80f26d72527d2bf51f4bef9b31db7ecd7fb51b9</description>
+    </item>
+    <item>
+      <title>iPad6,7 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16720/C27BE700-D43E-445F-A217-B80BAE94EDCD/iPadPro_12.9_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16720/C27BE700-D43E-445F-A217-B80BAE94EDCD/iPadPro_12.9_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: ea7dee160665333da901264b77fed4f80a529c96</description>
+    </item>
+    <item>
+      <title>iPad6,8 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16720/C27BE700-D43E-445F-A217-B80BAE94EDCD/iPadPro_12.9_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16720/C27BE700-D43E-445F-A217-B80BAE94EDCD/iPadPro_12.9_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: ea7dee160665333da901264b77fed4f80a529c96</description>
+    </item>
+    <item>
+      <title>iPad6,11 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16668/CEC5F550-2510-4045-A9EC-9FDF40D831F1/iPad_64bit_TouchID_ASTC_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16668/CEC5F550-2510-4045-A9EC-9FDF40D831F1/iPad_64bit_TouchID_ASTC_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: 97624d7eef14c0e41280ec258739a2ec795d632c</description>
+    </item>
+    <item>
+      <title>iPad6,12 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16668/CEC5F550-2510-4045-A9EC-9FDF40D831F1/iPad_64bit_TouchID_ASTC_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16668/CEC5F550-2510-4045-A9EC-9FDF40D831F1/iPad_64bit_TouchID_ASTC_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: 97624d7eef14c0e41280ec258739a2ec795d632c</description>
+    </item>
+    <item>
+      <title>iPad7,11 - 18.7.4 (22H218)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-15159/D47AD21F-4C8C-45E3-86EE-AA0A1B25912A/iPad_10.2_18.7.4_22H218_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-15159/D47AD21F-4C8C-45E3-86EE-AA0A1B25912A/iPad_10.2_18.7.4_22H218_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 22H218, SHA1: 67d8b2fd826314601502725fc9d94bf7c5c44bb1</description>
+    </item>
+    <item>
+      <title>iPad7,12 - 18.7.4 (22H218)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-15159/D47AD21F-4C8C-45E3-86EE-AA0A1B25912A/iPad_10.2_18.7.4_22H218_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-15159/D47AD21F-4C8C-45E3-86EE-AA0A1B25912A/iPad_10.2_18.7.4_22H218_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 22H218, SHA1: 67d8b2fd826314601502725fc9d94bf7c5c44bb1</description>
+    </item>
+    <item>
+      <title>iPad8,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,5 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,6 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,7 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,8 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,9 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,10 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,11 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad8,12 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-59325/FFF540F0-B0C7-41D5-9AF7-DD95B090C6D1/iPad_Pro_A12X_A12Z_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 79f356c4cd873cd5364ae600b42e0697e151dd39</description>
+    </item>
+    <item>
+      <title>iPad11,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34177/8C95C1F4-5C80-494D-8DF5-C75E22A9F2A7/iPad_Spring_2019_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34177/8C95C1F4-5C80-494D-8DF5-C75E22A9F2A7/iPad_Spring_2019_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 6e8674cd99f188c70e9968939f165347d3906ffb</description>
+    </item>
+    <item>
+      <title>iPad11,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34177/8C95C1F4-5C80-494D-8DF5-C75E22A9F2A7/iPad_Spring_2019_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34177/8C95C1F4-5C80-494D-8DF5-C75E22A9F2A7/iPad_Spring_2019_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 6e8674cd99f188c70e9968939f165347d3906ffb</description>
+    </item>
+    <item>
+      <title>iPad11,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34177/8C95C1F4-5C80-494D-8DF5-C75E22A9F2A7/iPad_Spring_2019_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34177/8C95C1F4-5C80-494D-8DF5-C75E22A9F2A7/iPad_Spring_2019_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 6e8674cd99f188c70e9968939f165347d3906ffb</description>
+    </item>
+    <item>
+      <title>iPad11,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34177/8C95C1F4-5C80-494D-8DF5-C75E22A9F2A7/iPad_Spring_2019_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34177/8C95C1F4-5C80-494D-8DF5-C75E22A9F2A7/iPad_Spring_2019_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 6e8674cd99f188c70e9968939f165347d3906ffb</description>
+    </item>
+    <item>
+      <title>iPad11,6 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34176/C1C94EFC-4438-4E87-A74A-1884695D06E8/iPad_10.2_2020_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34176/C1C94EFC-4438-4E87-A74A-1884695D06E8/iPad_10.2_2020_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: ca28bd03dfd96d967c294c5d65b97e4138f4c6b9</description>
+    </item>
+    <item>
+      <title>iPad11,7 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34176/C1C94EFC-4438-4E87-A74A-1884695D06E8/iPad_10.2_2020_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34176/C1C94EFC-4438-4E87-A74A-1884695D06E8/iPad_10.2_2020_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: ca28bd03dfd96d967c294c5d65b97e4138f4c6b9</description>
+    </item>
+    <item>
+      <title>iPad12,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34175/915E443D-A034-4C88-860E-898B96D25936/iPad_10.2_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34175/915E443D-A034-4C88-860E-898B96D25936/iPad_10.2_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 93733f4c7d0bf6f46f47f1ee0f50e86b4ec9b1f4</description>
+    </item>
+    <item>
+      <title>iPad12,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34175/915E443D-A034-4C88-860E-898B96D25936/iPad_10.2_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34175/915E443D-A034-4C88-860E-898B96D25936/iPad_10.2_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 93733f4c7d0bf6f46f47f1ee0f50e86b4ec9b1f4</description>
+    </item>
+    <item>
+      <title>iPad13,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34178/D7F950AD-7B33-4339-8B5C-4BCC193F1C5E/iPad_Fall_2020_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34178/D7F950AD-7B33-4339-8B5C-4BCC193F1C5E/iPad_Fall_2020_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: a0763b40eabb680600ed419892126a3eebc5d19b</description>
+    </item>
+    <item>
+      <title>iPad13,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34178/D7F950AD-7B33-4339-8B5C-4BCC193F1C5E/iPad_Fall_2020_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34178/D7F950AD-7B33-4339-8B5C-4BCC193F1C5E/iPad_Fall_2020_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: a0763b40eabb680600ed419892126a3eebc5d19b</description>
+    </item>
+    <item>
+      <title>iPad13,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 2a4dcb301adc701db9eb577230ee0fd91c2067eb</description>
+    </item>
+    <item>
+      <title>iPad13,5 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 2a4dcb301adc701db9eb577230ee0fd91c2067eb</description>
+    </item>
+    <item>
+      <title>iPad13,6 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 2a4dcb301adc701db9eb577230ee0fd91c2067eb</description>
+    </item>
+    <item>
+      <title>iPad13,7 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 2a4dcb301adc701db9eb577230ee0fd91c2067eb</description>
+    </item>
+    <item>
+      <title>iPad13,8 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 2a4dcb301adc701db9eb577230ee0fd91c2067eb</description>
+    </item>
+    <item>
+      <title>iPad13,9 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 2a4dcb301adc701db9eb577230ee0fd91c2067eb</description>
+    </item>
+    <item>
+      <title>iPad13,10 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 2a4dcb301adc701db9eb577230ee0fd91c2067eb</description>
+    </item>
+    <item>
+      <title>iPad13,11 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34204/F443450E-369B-4778-B7C9-F226FA128326/iPad_Pro_Spring_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 2a4dcb301adc701db9eb577230ee0fd91c2067eb</description>
+    </item>
+    <item>
+      <title>iPad13,16 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-18589/52CF91FF-5023-4101-84FE-B9F7C35CF4C4/iPad_Spring_2022_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-18589/52CF91FF-5023-4101-84FE-B9F7C35CF4C4/iPad_Spring_2022_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 64d63be76a8fccec6f677bf112a7b32a282ab6ca</description>
+    </item>
+    <item>
+      <title>iPad13,17 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-18589/52CF91FF-5023-4101-84FE-B9F7C35CF4C4/iPad_Spring_2022_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-18589/52CF91FF-5023-4101-84FE-B9F7C35CF4C4/iPad_Spring_2022_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 64d63be76a8fccec6f677bf112a7b32a282ab6ca</description>
+    </item>
+    <item>
+      <title>iPad13,18 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-22663/6EA5D842-D0C8-48FC-8AB4-5E5AE4DAA3EE/iPad_Fall_2022_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-22663/6EA5D842-D0C8-48FC-8AB4-5E5AE4DAA3EE/iPad_Fall_2022_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 7b3db3db59805443c7c37eaaa809de18f8b4acd3</description>
+    </item>
+    <item>
+      <title>iPad13,19 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-22663/6EA5D842-D0C8-48FC-8AB4-5E5AE4DAA3EE/iPad_Fall_2022_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-22663/6EA5D842-D0C8-48FC-8AB4-5E5AE4DAA3EE/iPad_Fall_2022_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 7b3db3db59805443c7c37eaaa809de18f8b4acd3</description>
+    </item>
+    <item>
+      <title>iPad14,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34219/C6DC0709-F1DB-4761-AB6C-BA156F06C455/iPad_Fall_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34219/C6DC0709-F1DB-4761-AB6C-BA156F06C455/iPad_Fall_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 86189a5c83171a95f304c2e92f2e413f089dcd6a</description>
+    </item>
+    <item>
+      <title>iPad14,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34219/C6DC0709-F1DB-4761-AB6C-BA156F06C455/iPad_Fall_2021_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34219/C6DC0709-F1DB-4761-AB6C-BA156F06C455/iPad_Fall_2021_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 86189a5c83171a95f304c2e92f2e413f089dcd6a</description>
+    </item>
+    <item>
+      <title>iPad14,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34197/373B8254-08F8-4D4D-9A73-A33D0CF00013/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34197/373B8254-08F8-4D4D-9A73-A33D0CF00013/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: aa43737a26ea7f7708fc459221ccefa88cad289e</description>
+    </item>
+    <item>
+      <title>iPad14,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34197/373B8254-08F8-4D4D-9A73-A33D0CF00013/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34197/373B8254-08F8-4D4D-9A73-A33D0CF00013/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: aa43737a26ea7f7708fc459221ccefa88cad289e</description>
+    </item>
+    <item>
+      <title>iPad14,5 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34197/373B8254-08F8-4D4D-9A73-A33D0CF00013/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34197/373B8254-08F8-4D4D-9A73-A33D0CF00013/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: aa43737a26ea7f7708fc459221ccefa88cad289e</description>
+    </item>
+    <item>
+      <title>iPad14,6 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34197/373B8254-08F8-4D4D-9A73-A33D0CF00013/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34197/373B8254-08F8-4D4D-9A73-A33D0CF00013/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: aa43737a26ea7f7708fc459221ccefa88cad289e</description>
+    </item>
+    <item>
+      <title>iPad14,8 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34211/F3A0B2C1-6564-4BF8-86E8-C1ED4F6D64B8/iPad_Air_M2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34211/F3A0B2C1-6564-4BF8-86E8-C1ED4F6D64B8/iPad_Air_M2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: c1e69d06d682d72b0659932d0241058e50e91bed</description>
+    </item>
+    <item>
+      <title>iPad14,9 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34211/F3A0B2C1-6564-4BF8-86E8-C1ED4F6D64B8/iPad_Air_M2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34211/F3A0B2C1-6564-4BF8-86E8-C1ED4F6D64B8/iPad_Air_M2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: c1e69d06d682d72b0659932d0241058e50e91bed</description>
+    </item>
+    <item>
+      <title>iPad14,10 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34211/F3A0B2C1-6564-4BF8-86E8-C1ED4F6D64B8/iPad_Air_M2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34211/F3A0B2C1-6564-4BF8-86E8-C1ED4F6D64B8/iPad_Air_M2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: c1e69d06d682d72b0659932d0241058e50e91bed</description>
+    </item>
+    <item>
+      <title>iPad14,11 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34211/F3A0B2C1-6564-4BF8-86E8-C1ED4F6D64B8/iPad_Air_M2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34211/F3A0B2C1-6564-4BF8-86E8-C1ED4F6D64B8/iPad_Air_M2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: c1e69d06d682d72b0659932d0241058e50e91bed</description>
+    </item>
+    <item>
+      <title>iPad16,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34203/F9F7CE68-7EAD-4FD7-A8AC-25FC05F9E57E/iPad16,1,iPad16,2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34203/F9F7CE68-7EAD-4FD7-A8AC-25FC05F9E57E/iPad16,1,iPad16,2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 02d171f403b2f5222449d34781aacd7da166d450</description>
+    </item>
+    <item>
+      <title>iPad16,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34203/F9F7CE68-7EAD-4FD7-A8AC-25FC05F9E57E/iPad16,1,iPad16,2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34203/F9F7CE68-7EAD-4FD7-A8AC-25FC05F9E57E/iPad16,1,iPad16,2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 02d171f403b2f5222449d34781aacd7da166d450</description>
+    </item>
+    <item>
+      <title>iPad16,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-21543/5EB13756-48DB-4A4E-A3F0-C36A1172C6D8/iPad_Pro_M4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-21543/5EB13756-48DB-4A4E-A3F0-C36A1172C6D8/iPad_Pro_M4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 912ab81141944516c76323afc32d409d7bdb3e5e</description>
+    </item>
+    <item>
+      <title>iPad16,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-21543/5EB13756-48DB-4A4E-A3F0-C36A1172C6D8/iPad_Pro_M4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-21543/5EB13756-48DB-4A4E-A3F0-C36A1172C6D8/iPad_Pro_M4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 912ab81141944516c76323afc32d409d7bdb3e5e</description>
+    </item>
+    <item>
+      <title>iPad16,5 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-21543/5EB13756-48DB-4A4E-A3F0-C36A1172C6D8/iPad_Pro_M4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-21543/5EB13756-48DB-4A4E-A3F0-C36A1172C6D8/iPad_Pro_M4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 912ab81141944516c76323afc32d409d7bdb3e5e</description>
+    </item>
+    <item>
+      <title>iPad16,6 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-21543/5EB13756-48DB-4A4E-A3F0-C36A1172C6D8/iPad_Pro_M4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-21543/5EB13756-48DB-4A4E-A3F0-C36A1172C6D8/iPad_Pro_M4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 912ab81141944516c76323afc32d409d7bdb3e5e</description>
+    </item>
+    <item>
+      <title>iPhone6,1 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28551/FB7714DB-6E9C-4750-8012-082B09341569/iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28551/FB7714DB-6E9C-4750-8012-082B09341569/iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 283ec31c183735a412f1f890ecaf556c4cc7a35c</description>
+    </item>
+    <item>
+      <title>iPhone6,2 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28551/FB7714DB-6E9C-4750-8012-082B09341569/iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28551/FB7714DB-6E9C-4750-8012-082B09341569/iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 283ec31c183735a412f1f890ecaf556c4cc7a35c</description>
+    </item>
+    <item>
+      <title>iPhone7,1 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28560/F34191C2-8CF5-4B8F-BCFB-2BDEEC68D668/iPhone_5.5_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28560/F34191C2-8CF5-4B8F-BCFB-2BDEEC68D668/iPhone_5.5_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 2e1341e2ced0205fa73dc13e676ec3a680e946e9</description>
+    </item>
+    <item>
+      <title>iPhone7,2 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28352/B80B4A86-C206-4C4F-8D35-65579694AEE9/iPhone_4.7_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28352/B80B4A86-C206-4C4F-8D35-65579694AEE9/iPhone_4.7_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 316fc685e887f3dd41fa620f12ecd4ae1e0bdc35</description>
+    </item>
+    <item>
+      <title>iPhone8,1 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41224/5BC40C22-5D50-4319-8069-27D3285DB332/iPhone_4.7_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41224/5BC40C22-5D50-4319-8069-27D3285DB332/iPhone_4.7_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: 96cc4f96943c09d76f4efac9601e071d7943df77</description>
+    </item>
+    <item>
+      <title>iPhone8,2 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41091/1617E32F-63A3-4CAA-9EF5-9F605460688A/iPhone_5.5_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41091/1617E32F-63A3-4CAA-9EF5-9F605460688A/iPhone_5.5_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: f319cf2a7cf10999177e173700a864acb48786ad</description>
+    </item>
+    <item>
+      <title>iPhone8,4 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-40974/261BA603-7170-42FE-835F-44E089D7FEC9/iPhone_4.0_64bit_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-40974/261BA603-7170-42FE-835F-44E089D7FEC9/iPhone_4.0_64bit_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: 897096cd1a8496889dcc001198d2daf85c74f793</description>
+    </item>
+    <item>
+      <title>iPhone9,1 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41068/C1621511-C808-4979-9B29-7A5080949162/iPhone_4.7_P3_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41068/C1621511-C808-4979-9B29-7A5080949162/iPhone_4.7_P3_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: 4d6a3586808dcebf0c7ba33f1a0c568ab964bdce</description>
+    </item>
+    <item>
+      <title>iPhone9,2 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-40924/686B57C7-DF49-4350-89B6-FB79292222A8/iPhone_5.5_P3_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-40924/686B57C7-DF49-4350-89B6-FB79292222A8/iPhone_5.5_P3_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: bb294524cebb2335f908a6d278cd863050ccaa58</description>
+    </item>
+    <item>
+      <title>iPhone9,3 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41068/C1621511-C808-4979-9B29-7A5080949162/iPhone_4.7_P3_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41068/C1621511-C808-4979-9B29-7A5080949162/iPhone_4.7_P3_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: 4d6a3586808dcebf0c7ba33f1a0c568ab964bdce</description>
+    </item>
+    <item>
+      <title>iPhone9,4 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-40924/686B57C7-DF49-4350-89B6-FB79292222A8/iPhone_5.5_P3_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-40924/686B57C7-DF49-4350-89B6-FB79292222A8/iPhone_5.5_P3_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: bb294524cebb2335f908a6d278cd863050ccaa58</description>
+    </item>
+    <item>
+      <title>iPhone10,1 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16889/075DFFE8-BF38-4BF8-98B8-A9981CBF207F/iPhone_4.7_P3_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16889/075DFFE8-BF38-4BF8-98B8-A9981CBF207F/iPhone_4.7_P3_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: 67479a8b6e15ed9d5778a66ca51bb4ff049f25f5</description>
+    </item>
+    <item>
+      <title>iPhone10,2 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16811/69871F60-43E7-41FD-A046-E0D6B7E16472/iPhone_5.5_P3_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16811/69871F60-43E7-41FD-A046-E0D6B7E16472/iPhone_5.5_P3_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: 595ba74bdb17acbc19e406e302a87a2bc318ca8f</description>
+    </item>
+    <item>
+      <title>iPhone10,3 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16809/9607A940-7C8C-4025-8791-7F4502B97A8B/iPhone10,3,iPhone10,6_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16809/9607A940-7C8C-4025-8791-7F4502B97A8B/iPhone10,3,iPhone10,6_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: 36a848a9ff089776674f3527b32fcdab3f7231a1</description>
+    </item>
+    <item>
+      <title>iPhone10,4 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16889/075DFFE8-BF38-4BF8-98B8-A9981CBF207F/iPhone_4.7_P3_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16889/075DFFE8-BF38-4BF8-98B8-A9981CBF207F/iPhone_4.7_P3_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: 67479a8b6e15ed9d5778a66ca51bb4ff049f25f5</description>
+    </item>
+    <item>
+      <title>iPhone10,5 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16811/69871F60-43E7-41FD-A046-E0D6B7E16472/iPhone_5.5_P3_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16811/69871F60-43E7-41FD-A046-E0D6B7E16472/iPhone_5.5_P3_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: 595ba74bdb17acbc19e406e302a87a2bc318ca8f</description>
+    </item>
+    <item>
+      <title>iPhone10,6 - 16.7.13 (20H365)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16809/9607A940-7C8C-4025-8791-7F4502B97A8B/iPhone10,3,iPhone10,6_16.7.13_20H365_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-16809/9607A940-7C8C-4025-8791-7F4502B97A8B/iPhone10,3,iPhone10,6_16.7.13_20H365_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 20H365, SHA1: 36a848a9ff089776674f3527b32fcdab3f7231a1</description>
+    </item>
+    <item>
+      <title>iPhone11,2 - 18.7.4 (22H218)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-14498/2B77DBD4-0BD9-4B7F-AD06-C871188A7229/iPhone11,2,iPhone11,4,iPhone11,6_18.7.4_22H218_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-14498/2B77DBD4-0BD9-4B7F-AD06-C871188A7229/iPhone11,2,iPhone11,4,iPhone11,6_18.7.4_22H218_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 22H218, SHA1: 033e3d1dc38665cb7a63b8f1c5b93600c58727b2</description>
+    </item>
+    <item>
+      <title>iPhone11,6 - 18.7.4 (22H218)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-14498/2B77DBD4-0BD9-4B7F-AD06-C871188A7229/iPhone11,2,iPhone11,4,iPhone11,6_18.7.4_22H218_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-14498/2B77DBD4-0BD9-4B7F-AD06-C871188A7229/iPhone11,2,iPhone11,4,iPhone11,6_18.7.4_22H218_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 22H218, SHA1: 033e3d1dc38665cb7a63b8f1c5b93600c58727b2</description>
+    </item>
+    <item>
+      <title>iPhone11,8 - 18.7.4 (22H218)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-15389/17E9779F-CD43-4ED9-B95C-6658C0EA34FD/iPhone11,8_18.7.4_22H218_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-15389/17E9779F-CD43-4ED9-B95C-6658C0EA34FD/iPhone11,8_18.7.4_22H218_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 22H218, SHA1: bc6c29a30735940a0e7af8a184e7030912a07aa5</description>
+    </item>
+    <item>
+      <title>iPhone12,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34206/1602514A-162B-48F2-A7BA-727A5DC2D54D/iPhone12,1_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34206/1602514A-162B-48F2-A7BA-727A5DC2D54D/iPhone12,1_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 11d7e6b4bfddf540162692bc32bb23cfc93aabd0</description>
+    </item>
+    <item>
+      <title>iPhone12,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34144/42192856-1C20-49D6-BC1A-05E57A8B7915/iPhone12,3,iPhone12,5_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34144/42192856-1C20-49D6-BC1A-05E57A8B7915/iPhone12,3,iPhone12,5_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: de717d1aaf64d21f34c2408bb5510b8d6eb451b9</description>
+    </item>
+    <item>
+      <title>iPhone12,5 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34144/42192856-1C20-49D6-BC1A-05E57A8B7915/iPhone12,3,iPhone12,5_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34144/42192856-1C20-49D6-BC1A-05E57A8B7915/iPhone12,3,iPhone12,5_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: de717d1aaf64d21f34c2408bb5510b8d6eb451b9</description>
+    </item>
+    <item>
+      <title>iPhone12,8 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34215/C9EEA259-5617-49E6-98BA-50F007BA2C30/iPhone12,8_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34215/C9EEA259-5617-49E6-98BA-50F007BA2C30/iPhone12,8_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 9725e042dcd879bab5cb693a9d8433eb1df82b61</description>
+    </item>
+    <item>
+      <title>iPhone13,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34180/6712D65A-9F97-4621-8602-232A5B11E943/iPhone13,1_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34180/6712D65A-9F97-4621-8602-232A5B11E943/iPhone13,1_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: fc390567362310cba176be7917a2bfbca420d664</description>
+    </item>
+    <item>
+      <title>iPhone13,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34151/E44C7D00-9408-4FCA-BAF2-670071843FCD/iPhone13,2,iPhone13,3_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34151/E44C7D00-9408-4FCA-BAF2-670071843FCD/iPhone13,2,iPhone13,3_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: c72afa40dc3fb12744a2f9f24071fc9fd7809d06</description>
+    </item>
+    <item>
+      <title>iPhone13,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34151/E44C7D00-9408-4FCA-BAF2-670071843FCD/iPhone13,2,iPhone13,3_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34151/E44C7D00-9408-4FCA-BAF2-670071843FCD/iPhone13,2,iPhone13,3_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: c72afa40dc3fb12744a2f9f24071fc9fd7809d06</description>
+    </item>
+    <item>
+      <title>iPhone13,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34154/8476E5C4-686C-419D-A482-CC22966D7150/iPhone13,4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34154/8476E5C4-686C-419D-A482-CC22966D7150/iPhone13,4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 0f75b759857c39bbade9675fbc3b64eb5238523f</description>
+    </item>
+    <item>
+      <title>iPhone14,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34189/50F46E1B-7457-4BC6-9D48-9D712ECF859A/iPhone14,2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34189/50F46E1B-7457-4BC6-9D48-9D712ECF859A/iPhone14,2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 97c9c2ad9a7501d756577a700257ae678d9f32ae</description>
+    </item>
+    <item>
+      <title>iPhone14,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34205/942930F2-4DAA-4CBA-9798-EB28E630DD8C/iPhone14,3_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34205/942930F2-4DAA-4CBA-9798-EB28E630DD8C/iPhone14,3_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 7240dfb664989f914936f77b539b0244d55e66e5</description>
+    </item>
+    <item>
+      <title>iPhone14,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34137/78281BB0-E846-4748-84D9-9D83C51F7670/iPhone14,4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34137/78281BB0-E846-4748-84D9-9D83C51F7670/iPhone14,4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 3270e0a9033af1772c2ddc8452504690ddf3820e</description>
+    </item>
+    <item>
+      <title>iPhone14,5 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34141/A5FEF813-064D-4026-AF40-FCFB98CA5B48/iPhone14,5_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34141/A5FEF813-064D-4026-AF40-FCFB98CA5B48/iPhone14,5_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: e9b1a4986b8fa1faee93aaecfbff8994f61f53c5</description>
+    </item>
+    <item>
+      <title>iPhone14,6 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34163/315BEC20-C9CA-4C84-A0E2-8037E9CA547F/iPhone14,6_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34163/315BEC20-C9CA-4C84-A0E2-8037E9CA547F/iPhone14,6_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: fde15bc40c3ff754c7d70d89eb073e79bf15536d</description>
+    </item>
+    <item>
+      <title>iPhone14,7 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34145/FC0C20BD-46DC-4D1D-8203-EA1743A40085/iPhone14,7_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34145/FC0C20BD-46DC-4D1D-8203-EA1743A40085/iPhone14,7_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 5d5dbb16626ed0c6e32aa5c2f1720ad0365f1049</description>
+    </item>
+    <item>
+      <title>iPhone14,8 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34140/83BD967B-69FB-4E25-B60D-8AD12FEA23F0/iPhone14,8_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34140/83BD967B-69FB-4E25-B60D-8AD12FEA23F0/iPhone14,8_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: ec408bfd938074f352b2ebb80d285236b8b45fe9</description>
+    </item>
+    <item>
+      <title>iPhone15,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-60399/6860FCCE-B734-4BEA-9222-E0C95A6C97A0/iPhone15,2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-60399/6860FCCE-B734-4BEA-9222-E0C95A6C97A0/iPhone15,2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 868797bb34535e23f59a1aa8a2bbc2b9ac2ea028</description>
+    </item>
+    <item>
+      <title>iPhone15,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34164/2DDA1F26-DBA5-4EAC-ACEE-F78456DF6F1F/iPhone15,3_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34164/2DDA1F26-DBA5-4EAC-ACEE-F78456DF6F1F/iPhone15,3_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 99dab70bbb4b7d135fdf3f657c7b634122323aff</description>
+    </item>
+    <item>
+      <title>iPhone15,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34148/DF650F41-00F1-4DEF-A2C9-178396505770/iPhone15,4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34148/DF650F41-00F1-4DEF-A2C9-178396505770/iPhone15,4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: f0bfe270fd6a559149cf0c214506e8c865a30dbd</description>
+    </item>
+    <item>
+      <title>iPhone15,5 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34170/C2BA40F0-5B34-4D32-B110-1391E2FFABA8/iPhone15,5_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34170/C2BA40F0-5B34-4D32-B110-1391E2FFABA8/iPhone15,5_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: f523f5db86059be91f6140d9efb02793e85d0757</description>
+    </item>
+    <item>
+      <title>iPhone16,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34179/ACB6D88D-CF85-4CAF-AFCE-457E7C12CC3B/iPhone16,1_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34179/ACB6D88D-CF85-4CAF-AFCE-457E7C12CC3B/iPhone16,1_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 6c49ebcc35e5bdc4c0fec677b1b38bcaba8dbfad</description>
+    </item>
+    <item>
+      <title>iPhone16,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34185/F962732A-05FB-451E-8CE2-C5114704AEAF/iPhone16,2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34185/F962732A-05FB-451E-8CE2-C5114704AEAF/iPhone16,2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 2a95a8f6f5cc9ef3826910460fc2994aa9a8bbd2</description>
+    </item>
+    <item>
+      <title>iPhone17,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34169/C32FC87E-E6D2-47D1-915A-EC741FE24B6E/iPhone17,1_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34169/C32FC87E-E6D2-47D1-915A-EC741FE24B6E/iPhone17,1_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: c1f32dc51b853408f83709b6c639f34288938e5c</description>
+    </item>
+    <item>
+      <title>iPhone17,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34217/D03B52DE-E9B3-42DD-87AE-7FAB872C8272/iPhone17,2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34217/D03B52DE-E9B3-42DD-87AE-7FAB872C8272/iPhone17,2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: f02002914fcfd1f56d0b29650a38c24b4ca09f61</description>
+    </item>
+    <item>
+      <title>iPhone17,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34150/D14FB1F1-B8C5-4A20-9250-8DD35EF19BF5/iPhone17,3_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34150/D14FB1F1-B8C5-4A20-9250-8DD35EF19BF5/iPhone17,3_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: aca42b97ef49d296262188bd7d354f9442cf2899</description>
+    </item>
+    <item>
+      <title>iPhone17,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34222/91C8E99B-8830-4E83-A9B7-47A452520F96/iPhone17,4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34222/91C8E99B-8830-4E83-A9B7-47A452520F96/iPhone17,4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: db1f58e501e706cc90ece4fdda13e427b9bb44e3</description>
+    </item>
+    <item>
+      <title>iPhone17,5 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-69799/13079A5C-BCE7-4243-8673-3A4D53B2306D/iPhone17,5_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-69799/13079A5C-BCE7-4243-8673-3A4D53B2306D/iPhone17,5_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: c9641530d005913e1d76b5f3486f9245df91df1c</description>
+    </item>
+    <item>
+      <title>iPod7,1 - 12.5.8 (16H88)</title>
+      <link>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28554/C3D5CA8F-8B6F-4B05-9456-C5E632723337/iPodtouch_12.5.8_16H88_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28554/C3D5CA8F-8B6F-4B05-9456-C5E632723337/iPodtouch_12.5.8_16H88_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 16H88, SHA1: 1e43f40a35484893973c74793d9c57c44c5c65fb</description>
+    </item>
+    <item>
+      <title>iPod9,1 - 15.8.6 (19H402)</title>
+      <link>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41278/6346BAB1-76B1-45D2-BCE2-ED138A276C57/iPodtouch_7_15.8.6_19H402_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025SpringFCS/fullrestores/047-41278/6346BAB1-76B1-45D2-BCE2-ED138A276C57/iPodtouch_7_15.8.6_19H402_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 19H402, SHA1: 28363cdf0e014a9fb4a45f266d55e962644daf3e</description>
+    </item>
+    <item>
+      <title>iPad15,7 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34190/1727242B-9A24-44CA-AF0A-20F2CC10DC78/iPad15,7_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34190/1727242B-9A24-44CA-AF0A-20F2CC10DC78/iPad15,7_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 10bffaca1efabd685ca5dcb5f6ba8b025e6222e5</description>
+    </item>
+    <item>
+      <title>iPad15,8 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-19172/BE883B43-EB62-4573-81FE-8A08D54BA71E/iPad15,8_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-19172/BE883B43-EB62-4573-81FE-8A08D54BA71E/iPad15,8_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 6dd3feccf08aa4d35447138c1f7698dd222bf30c</description>
+    </item>
+    <item>
+      <title>iPad15,5 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34196/5C6B83F9-16A3-40E7-961F-6AE05572177E/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34196/5C6B83F9-16A3-40E7-961F-6AE05572177E/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: bb991e2bce533c61598889ff6976f7fdbc6e13d8</description>
+    </item>
+    <item>
+      <title>iPad15,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34196/5C6B83F9-16A3-40E7-961F-6AE05572177E/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34196/5C6B83F9-16A3-40E7-961F-6AE05572177E/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: bb991e2bce533c61598889ff6976f7fdbc6e13d8</description>
+    </item>
+    <item>
+      <title>iPad15,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34196/5C6B83F9-16A3-40E7-961F-6AE05572177E/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34196/5C6B83F9-16A3-40E7-961F-6AE05572177E/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: bb991e2bce533c61598889ff6976f7fdbc6e13d8</description>
+    </item>
+    <item>
+      <title>iPad15,6 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34196/5C6B83F9-16A3-40E7-961F-6AE05572177E/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34196/5C6B83F9-16A3-40E7-961F-6AE05572177E/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: bb991e2bce533c61598889ff6976f7fdbc6e13d8</description>
+    </item>
+    <item>
+      <title>iPhone18,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-96292/D73A6327-9058-4021-8AE6-05EDD1817682/iPhone18,2_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-96292/D73A6327-9058-4021-8AE6-05EDD1817682/iPhone18,2_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 70ccfdfc7140856714dc3d7f8c32f868626868e3</description>
+    </item>
+    <item>
+      <title>iPhone18,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34147/A3A2F9E9-F393-4ACE-BE3A-F420BB1B09AC/iPhone18,4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34147/A3A2F9E9-F393-4ACE-BE3A-F420BB1B09AC/iPhone18,4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: dfb037c2ece4c5c0cc4c8c19a42eabc728d29f26</description>
+    </item>
+    <item>
+      <title>iPhone18,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-68716/36B64BD0-F945-45BD-8905-6E01F4F916E4/iPhone18,1_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-68716/36B64BD0-F945-45BD-8905-6E01F4F916E4/iPhone18,1_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 730538cde9906719ccd9b36b577bf57c2aa228b6</description>
+    </item>
+    <item>
+      <title>iPhone18,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-97410/74A69CBC-C68F-43AF-ACBD-3D9127A423B7/iPhone18,3_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-97410/74A69CBC-C68F-43AF-ACBD-3D9127A423B7/iPhone18,3_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: 72df8a0355a4d0c036e4f05a746178271b79bcea</description>
+    </item>
+    <item>
+      <title>iPad17,2 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34213/B71D7BDD-767E-4597-80E7-CBA54CA737E1/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34213/B71D7BDD-767E-4597-80E7-CBA54CA737E1/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: a214741c6d4aa4cc4b6be5780f434720f463bbf3</description>
+    </item>
+    <item>
+      <title>iPad17,1 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34213/B71D7BDD-767E-4597-80E7-CBA54CA737E1/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34213/B71D7BDD-767E-4597-80E7-CBA54CA737E1/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: a214741c6d4aa4cc4b6be5780f434720f463bbf3</description>
+    </item>
+    <item>
+      <title>iPad17,3 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34213/B71D7BDD-767E-4597-80E7-CBA54CA737E1/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34213/B71D7BDD-767E-4597-80E7-CBA54CA737E1/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: a214741c6d4aa4cc4b6be5780f434720f463bbf3</description>
+    </item>
+    <item>
+      <title>iPad17,4 - 26.2.1 (23C71)</title>
+      <link>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34213/B71D7BDD-767E-4597-80E7-CBA54CA737E1/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.2.1_23C71_Restore.ipsw</link>
+      <guid>https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34213/B71D7BDD-767E-4597-80E7-CBA54CA737E1/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.2.1_23C71_Restore.ipsw</guid>
+      <pubDate>Mon, 26 Jan 2026 18:50:44 GMT</pubDate>
+      <description>Build: 23C71, SHA1: a214741c6d4aa4cc4b6be5780f434720f463bbf3</description>
     </item>
   </channel>
 </rss>
