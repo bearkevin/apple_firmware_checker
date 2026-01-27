@@ -27,10 +27,10 @@ def connect_db(db_path: str = DB_FILE) -> sqlite3.Connection:
 def list_all_devices(conn: sqlite3.Connection, limit: int = None) -> List[Dict]:
     """List all devices in the database."""
     cursor = conn.cursor()
-    query = "SELECT * FROM firmware ORDER BY hardware_code"
     if limit:
-        query += f" LIMIT {limit}"
-    cursor.execute(query)
+        cursor.execute("SELECT * FROM firmware ORDER BY hardware_code LIMIT ?", (limit,))
+    else:
+        cursor.execute("SELECT * FROM firmware ORDER BY hardware_code")
     return [dict(row) for row in cursor.fetchall()]
 
 
@@ -105,15 +105,15 @@ def get_statistics(conn: sqlite3.Connection) -> Dict:
     }
 
 
-def print_devices(devices: List[Dict], format: str = "table"):
+def print_devices(devices: List[Dict], output_format: str = "table"):
     """Print devices in the specified format."""
     if not devices:
         print("No devices found.")
         return
     
-    if format == "json":
+    if output_format == "json":
         print(json.dumps(devices, indent=2, ensure_ascii=False))
-    elif format == "csv":
+    elif output_format == "csv":
         writer = csv.DictWriter(sys.stdout, fieldnames=devices[0].keys())
         writer.writeheader()
         writer.writerows(devices)
