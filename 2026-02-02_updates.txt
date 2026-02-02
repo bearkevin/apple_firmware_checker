@@ -1,0 +1,6 @@
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-49571/ED264EDC-72D4-4B1C-9498-6741888C49A6/iPadPro_9.7_16.7.14_20H370_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-49585/47C3FCBB-0BFC-4559-A1BE-5E21584553E6/iPhone_5.5_P3_16.7.14_20H370_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-49599/56BDE5CA-CFD2-4F65-85E0-B720F9250EED/iPhone10,3,iPhone10,6_16.7.14_20H370_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-49664/2D88BCB0-188E-4934-B50E-C45DD6479618/iPad_64bit_TouchID_ASTC_16.7.14_20H370_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-49786/0ECAD747-105F-4D0A-B663-B211D990D961/iPhone_4.7_P3_16.7.14_20H370_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-49797/16C7B03B-39B2-4BF1-9DD4-2AB85B885EE8/iPadPro_12.9_16.7.14_20H370_Restore.ipsw
