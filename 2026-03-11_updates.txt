@@ -1,0 +1,13 @@
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95166/1E95A58B-CDFA-4868-AD6D-8E469CEEC722/iPhone_5.5_P3_15.8.7_19H411_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95293/18A0749D-A68D-430C-8E31-1920612F3229/iPhone_5.5_15.8.7_19H411_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95330/CF4E5626-8F95-4E41-946A-A2359C867B60/iPhone_4.0_64bit_15.8.7_19H411_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95401/7BF3495E-8276-466B-AF36-5A422212AF02/iPad_64bit_TouchID_15.8.7_19H411_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95402/7B78F026-8D2E-4511-B6C1-72A7CE6B45E4/iPhone_4.7_P3_15.8.7_19H411_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95429/C8FE847C-FE0E-49B1-9C7E-F56894B6E2BF/iPhone_4.7_15.8.7_19H411_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95434/0CA995F2-B857-4159-A113-21C269D2BA8E/iPodtouch_7_15.8.7_19H411_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95629/98138AB9-5ECA-4934-B194-44657AA1ADEE/iPhone_4.7_P3_16.7.15_20H380_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95676/25C66903-AE81-4C9D-8CEF-EA76B2A1363D/iPhone_5.5_P3_16.7.15_20H380_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95701/756A1205-34B1-4E5E-8787-E7732EF88F8B/iPadPro_12.9_16.7.15_20H380_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95746/27922098-E91E-4E4F-B188-1EA214C0DF8C/iPadPro_9.7_16.7.15_20H380_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95755/9CE423F6-CFFF-443B-8DC3-6B4C0B7181E3/iPad_64bit_TouchID_ASTC_16.7.15_20H380_Restore.ipsw
+https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-95808/6C93B138-CA05-438D-BBFC-7B024409B5E6/iPhone10,3,iPhone10,6_16.7.15_20H380_Restore.ipsw
