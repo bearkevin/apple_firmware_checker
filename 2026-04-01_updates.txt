@@ -1,0 +1,3 @@
+https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-22366/7418AD53-7573-4905-A903-2DF1E875BEA0/iPhone11,2,iPhone11,4,iPhone11,6_18.7.7_22H340_Restore.ipsw
+https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-22384/718DB9BE-5C93-427E-ABA1-7CDADA4099A0/iPad_10.2_18.7.7_22H340_Restore.ipsw
+https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-22395/A3200FDD-28E2-410F-B913-912FCB348841/iPhone11,8_18.7.7_22H340_Restore.ipsw
