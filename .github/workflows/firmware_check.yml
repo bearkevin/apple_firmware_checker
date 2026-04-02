@@ -2,6 +2,11 @@ on:
   schedule:
     - cron: '*/15 17-22 * * 1-5'
   workflow_dispatch:
+    inputs:
+      resend_attachment:
+        description: "Existing *_updates.txt file to email manually"
+        required: false
+        type: string
 
 jobs:
   check-and-commit:
@@ -11,24 +16,51 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up python
+        if: github.event.inputs.resend_attachment == ''
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install Dependencies
+        if: github.event.inputs.resend_attachment == ''
         run: pip install -r requirements.txt
 
       - name: Run firmware checker
+        if: github.event.inputs.resend_attachment == ''
         run: python3 firmware_checker.py
 
       - name: Detect update attachment
         id: detect_updates
         shell: bash
+        env:
+          MANUAL_ATTACHMENT: ${{ github.event.inputs.resend_attachment }}
         run: |
+          if [ -n "$MANUAL_ATTACHMENT" ]; then
+            case "$MANUAL_ATTACHMENT" in
+              *_updates.txt)
+                ;;
+              *)
+                echo "Manual attachment must match *_updates.txt"
+                exit 1
+                ;;
+            esac
+
+            if [ ! -f "$MANUAL_ATTACHMENT" ]; then
+              echo "Manual attachment file not found: $MANUAL_ATTACHMENT"
+              exit 1
+            fi
+
+            echo "has_updates=true" >> "$GITHUB_OUTPUT"
+            echo "attachment_path=$MANUAL_ATTACHMENT" >> "$GITHUB_OUTPUT"
+            echo "send_mode=manual" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
           mapfile -t update_files < <(git status --porcelain -- '*_updates.txt' | awk '{print $2}')
 
           if [ "${#update_files[@]}" -eq 0 ]; then
             echo "has_updates=false" >> "$GITHUB_OUTPUT"
+            echo "send_mode=auto" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
@@ -36,6 +68,7 @@ jobs:
 
           echo "has_updates=true" >> "$GITHUB_OUTPUT"
           echo "attachment_path=$attachment_path" >> "$GITHUB_OUTPUT"
+          echo "send_mode=auto" >> "$GITHUB_OUTPUT"
 
       - name: Send update email
         id: send_email
@@ -44,17 +77,19 @@ jobs:
         uses: dawidd6/action-send-mail@v6
         with:
           connection_url: ${{ secrets.MAIL_CONNECTION }}
-          subject: "[Apple Firmware Checker] New firmware updates - ${{ github.run_id }}"
+          subject: "[Apple Firmware Checker] Firmware updates - ${{ steps.detect_updates.outputs.attachment_path }}"
           to: ${{ secrets.MAIL_TO }}
           from: ${{ vars.MAIL_FROM }}
           body: |
-            New firmware updates were detected in ${{ github.repository }}.
+            Firmware update email from ${{ github.repository }}.
 
             Attachment: ${{ steps.detect_updates.outputs.attachment_path }}
+            Mode: ${{ steps.detect_updates.outputs.send_mode }}
             Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
           attachments: ${{ steps.detect_updates.outputs.attachment_path }}
 
       - name: Commit and push if changed
+        if: steps.detect_updates.outputs.send_mode == 'auto'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated update firmware data"
