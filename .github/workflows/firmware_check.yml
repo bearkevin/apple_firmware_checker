@@ -76,7 +76,11 @@ jobs:
         continue-on-error: true
         uses: dawidd6/action-send-mail@v6
         with:
-          connection_url: ${{ secrets.MAIL_CONNECTION }}
+          server_address: smtp.mail.me.com
+          server_port: 587
+          secure: false
+          username: ${{ secrets.MAIL_SMTP_USERNAME }}
+          password: ${{ secrets.MAIL_SMTP_PASSWORD }}
           subject: "[Apple Firmware Checker] Firmware updates - ${{ steps.detect_updates.outputs.attachment_path }}"
           to: ${{ secrets.MAIL_TO }}
           from: ${{ vars.MAIL_FROM }}
