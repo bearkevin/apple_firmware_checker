@@ -1,9 +1,9 @@
 import logging
+import os
 from typing import Optional
 import plistlib
 import requests
 import sqlite3
-import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from device import AppleDevice
@@ -12,7 +12,9 @@ from device import AppleDevice
 PLIST_URL = "https://s.mzstatic.com/version"
 DB_FILE = "firmware.db"
 RSS_FILE = "firmware_rss.xml"
-POLLING_INTERVAL_MINUTES = 15
+LOG_DIR = "log"
+UPDATES_DIR = "updates"
+SKIPPED_LOG = os.path.join(LOG_DIR, "skipped_devices.log")
 
 
 def fetch_and_parse_plist(url: str) -> Optional[dict]:
@@ -58,8 +60,18 @@ def extract_firmware_info(full_data: dict) -> list[AppleDevice]:
                 product_version=restore_info.get("ProductVersion"),
             ))
         except KeyError:
-            pass
+            logging.debug("Skipped %s: unexpected plist structure", code)
+            _append_skipped_log(code)
     return devices
+
+
+def _append_skipped_log(code: str):
+    """Append a skipped-device entry to log/skipped_devices.log."""
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    os.makedirs(LOG_DIR, exist_ok=True)
+    with open(SKIPPED_LOG, "a", encoding="utf-8") as f:
+        f.write(f"{timestamp} - Skipped {code}: unexpected plist structure\n")
+
 
 # --- Database & RSS Functions ---
 
@@ -75,6 +87,17 @@ def init_db(db_path: str):
                 firmware_sha1 TEXT,
                 firmware_url TEXT,
                 last_checked TIMESTAMP
+            )
+        ''')
+        cursor.execute('''
+            CREATE TABLE IF NOT EXISTS firmware_history (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                hardware_code TEXT NOT NULL,
+                product_version TEXT,
+                build_version TEXT,
+                firmware_sha1 TEXT,
+                firmware_url TEXT,
+                detected_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
             )
         ''')
         # Clean up any old AppleTV entries on initialization
@@ -111,6 +134,23 @@ def update_database(db_path: str, devices: list[AppleDevice]):
             ))
         conn.commit()
 
+def record_firmware_history(db_path: str, updated_devices: list[AppleDevice]):
+    """Inserts a history record for each device whose firmware just changed."""
+    with sqlite3.connect(db_path) as conn:
+        cursor = conn.cursor()
+        for device in updated_devices:
+            cursor.execute('''
+                INSERT INTO firmware_history
+                    (hardware_code, product_version, build_version, firmware_sha1, firmware_url)
+                VALUES (?, ?, ?, ?, ?)
+            ''', (
+                device.hardware_code, device.product_version, device.build_version,
+                device.firmware_sha1, device.firmware_url
+            ))
+        conn.commit()
+    logging.info("Recorded %d firmware history entries.", len(updated_devices))
+
+
 def update_rss_feed(rss_path: str, updated_devices: list[AppleDevice]):
     """Creates or updates a local RSS feed file with the latest firmware."""
     logging.info(f"Updating RSS feed at {rss_path}...")
@@ -128,29 +168,45 @@ def update_rss_feed(rss_path: str, updated_devices: list[AppleDevice]):
     # 清空现有的所有条目
     for item in channel.findall('item'):
         channel.remove(item)
-    
-    # 添加所有新发现的固件更新条目
+
+    # 按固件 URL 分组：同一个 .ipsw 文件只生成一个条目，避免下载工具重复下载。
+    # 跳过没有 URL 的设备（否则会写出空 link/guid）。
+    groups: dict[str, list[AppleDevice]] = {}
     for device in updated_devices:
+        if not device.firmware_url:
+            continue
+        groups.setdefault(device.firmware_url, []).append(device)
+
+    pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+    for url, devices in groups.items():
+        first = devices[0]
+        codes = ", ".join(d.hardware_code for d in devices)
         item = ET.Element('item')
-        ET.SubElement(item, 'title').text = f'{device.hardware_code} - {device.product_version} ({device.build_version})'
-        ET.SubElement(item, 'link').text = device.firmware_url
-        ET.SubElement(item, 'guid').text = device.firmware_url
-        ET.SubElement(item, 'pubDate').text = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
-        ET.SubElement(item, 'description').text = f"Build: {device.build_version}, SHA1: {device.firmware_sha1}"
-        channel.append(item)  # 直接添加到频道末尾
+        ET.SubElement(item, 'title').text = f'{codes} - {first.product_version} ({first.build_version})'
+        ET.SubElement(item, 'link').text = url
+        ET.SubElement(item, 'guid').text = url  # 每个文件一条，天然唯一
+        ET.SubElement(item, 'pubDate').text = pub_date
+        ET.SubElement(item, 'description').text = f"Build: {first.build_version}, SHA1: {first.firmware_sha1}"
+        enclosure = ET.SubElement(item, 'enclosure')
+        enclosure.set('url', url)
+        enclosure.set('type', 'application/x-ipsw')
+        enclosure.set('length', '0')
+        channel.append(item)
 
     ET.indent(tree, space="  ", level=0)
     tree.write(rss_path, encoding='utf-8', xml_declaration=True)
-    logging.info(f"RSS feed updated with {len(updated_devices)} new firmware entries.")
+    logging.info(f"RSS feed updated with {len(groups)} firmware file entries ({len(updated_devices)} devices).")
 
 def main():
     """Main function to run a single firmware check and update local files."""
+    os.makedirs(LOG_DIR, exist_ok=True)
+
     # Configure logging
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.FileHandler("firmware_checker.log"),
+            logging.FileHandler(os.path.join(LOG_DIR, "firmware_checker.log")),
             logging.StreamHandler()
         ]
     )
@@ -182,10 +238,13 @@ def main():
         
         update_database(DB_FILE, remote_devices)
         logging.info("Database has been updated.")
-        
-        url_filename = f"{datetime.now().strftime('%Y-%m-%d')}_updates.txt"
+
+        record_firmware_history(DB_FILE, updated_devices)
+
+        os.makedirs(UPDATES_DIR, exist_ok=True)
+        url_filename = os.path.join(UPDATES_DIR, f"{datetime.now().strftime('%Y-%m-%d')}_updates.txt")
         logging.info(f"Saving updated firmware URLs to {url_filename}...")
-        new_urls = sorted(list(set(d.firmware_url for d in updated_devices)))
+        new_urls = sorted({d.firmware_url for d in updated_devices if d.firmware_url})
         try:
             with open(url_filename, 'r') as f:
                 existing_urls = [line.strip() for line in f.readlines()]
